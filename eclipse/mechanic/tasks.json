@@ -12,6 +12,7 @@
     'm2e.epf',
     'no_refresh_workspace_on_startup.epf',
     'run_in_background.epf',
-    'spaces.epf'
+    'spaces.epf',
+    'spring_recommended_jdt.epf'
   ]
 }
