@@ -1,0 +1,9 @@
+# @title Show ruler, whitespaces and print margin.
+# @description Show line number ruler, whitespaces and the 100 characters width print margin.
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.ui.editors/lineNumberRuler=true
+/instance/org.eclipse.ui.editors/printMargin=true
+/instance/org.eclipse.ui.editors/printMarginColumn=100
+/instance/org.eclipse.ui.editors/showWhitespaceCharacters=true
+/instance/org.eclipse.ui.editors/whitespaceCharacterAlphaValue=40

@@ -1,0 +1,5 @@
+# @title Always run jobs in the background.
+# @description Run jobs in the background by default.
+# @task_type LASTMOD
+file_export_version=3.0
+/instance/org.eclipse.ui.workbench/RUN_IN_BACKGROUND=true

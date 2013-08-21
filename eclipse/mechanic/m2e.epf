@@ -1,0 +1,9 @@
+# @title m2e preferences.
+# @description Default to POM Editor page, don not update indexes, download artifact sources and hide folders of nested projects.
+# @task_type LASTMOD
+#
+file_export_version=3.0
+/instance/org.eclipse.m2e.core/eclipse.m2.defaultPomEditorPage=true
+/instance/org.eclipse.m2e.core/eclipse.m2.downloadSources=true
+/instance/org.eclipse.m2e.core/eclipse.m2.hideFoldersOfNestedProjects=true
+/instance/org.eclipse.m2e.core/eclipse.m2.updateIndexes=false

@@ -1,0 +1,17 @@
+{
+  type : 'com.google.eclipse.mechanic.UriTaskProviderModel',
+  metadata : {
+    name: 'ChunghwaTelecom Workspace Mechanic Tasks',
+    description: 'Tasks for enforcing common eclipse preferences.',
+    contact: 'beta@cht.com.tw'
+  },  
+  tasks: [
+    'editor.epf',
+    'java_cleanup.epf',
+    'java_format.epf',
+    'm2e.epf',
+    'no_refresh_workspace_on_startup.epf',
+    'run_in_background.epf',
+    'spaces.epf'
+  ]
+}
