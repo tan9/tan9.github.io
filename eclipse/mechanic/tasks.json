@@ -10,6 +10,7 @@
     'java_cleanup.epf',
     'java_format.epf',
     'm2e.epf',
+    'moreunit.epf',
     'no_refresh_workspace_on_startup.epf',
     'run_in_background.epf',
     'spaces.epf',

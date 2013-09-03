@@ -1,0 +1,6 @@
+# @title MoreUnit preferences.
+# @description Set java test class path to standard Maven directory "src/test/java".
+# @task_type LASTMOD
+#
+file_export_version=3.0
+/instance/org.moreunit/org.moreunit.junit_path=src/test/java
