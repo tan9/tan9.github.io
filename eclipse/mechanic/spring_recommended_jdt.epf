@@ -5,7 +5,7 @@
 file_export_version=3.0
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.nonExternalizedStringLiteral=ignore
 /instance/org.eclipse.jdt.ui/content_assist_autoactivation_delay=40
-/instance/org.eclipse.jdt.ui/content_assist_autoactivation_triggers_java=_.abcdefghijklmnopqrstuvwxyz
+/instance/org.eclipse.jdt.ui/content_assist_autoactivation_triggers_java=.
 /instance/org.eclipse.jdt.ui/escape\u00A5Strings=true
 /instance/org.eclipse.jdt.ui/smart_backspace=true
 /instance/org.eclipse.jdt.ui/smart_opening_brace=true
