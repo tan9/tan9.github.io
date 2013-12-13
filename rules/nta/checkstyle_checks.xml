@@ -239,7 +239,7 @@
     <!-- Filters                                               -->
     <!-- http://checkstyle.sourceforge.net/config.html#Filters -->
     <module name="SuppressionFilter">
-        <property name="file" value="${basedir}/checkstyle-suppressions.xml"/>
+        <property name="file" value="http://chunghwatelecom.github.io/rules/nta/checkstyle_suppressions.xml"/>
     </module>
     <module name="SuppressionCommentFilter"/>
     <module name="SuppressWithNearbyCommentFilter"/>
