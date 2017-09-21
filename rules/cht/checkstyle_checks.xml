@@ -25,6 +25,8 @@
 
     - Add SuppressionCommentFilter and SuppressWithNearbyCommentFilter.
 
+    - Remove deprecated modules RedundantThrows and FileContentsHolder.
+
   Sun Checks (Eclipse) checkstyle configuration that checks the sun coding
   conventions from:
 
@@ -222,11 +224,6 @@
             <property name="severity" value="ignore"/>
         </module>
         <module name="UpperEll"/>
-
-
-        <!-- Makes comments available to filters                   -->
-        <!-- http://checkstyle.sourceforge.net/config.html#Filters -->
-        <module name="FileContentsHolder"/>
 
     </module>
 
